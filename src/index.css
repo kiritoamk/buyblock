@@ -8,4 +8,12 @@
 body {
     font-family: 'Wix Madefor Text', sans-serif;
   }
+
+  html, body {
+    height: 100%;
+    overflow-x: hidden; /* Prevents horizontal scrolling */
+    margin: 0;
+    padding: 0;
+  }
+  
   
